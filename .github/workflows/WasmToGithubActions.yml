@@ -3,7 +3,7 @@ on: [push]
 permissions:
   contents: write
 env:
-  extension-name: 'quack'
+  extension-name: 'js_replacement_scan'
 defaults:
   run:
     shell: bash
